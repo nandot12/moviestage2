@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="THE_MOVIE_DB_API_TOKEN">61a732264fa2977939306018c139391c</string>
+    <string name="BAHASA">en-US</string>
+    <string name="PAGE">1</string>
+    <string name="title_activity_detail_movie">Detail Movie</string>
+    <string name="trailers_header">Trailer</string>
+    <string name="reviews_header">Review</string>
+
+</resources>

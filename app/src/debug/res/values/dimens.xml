@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tinggi_gambar">250dp</dimen>
+    <dimen name="tinggi_bar">180dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="sizetext">20sp</dimen>
+
+</resources>
